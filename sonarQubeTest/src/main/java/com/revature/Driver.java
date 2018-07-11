@@ -9,7 +9,7 @@ public class Driver {
 		    System.out.println("case 0");
 		    break;
 		  default:
-			System.out.println("test");
+			System.out.println("default");
 		    break;
 		}
 	}
